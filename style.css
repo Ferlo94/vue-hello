@@ -15,4 +15,9 @@ body {
 
 .h1-burger {
     margin-bottom: 30px;
+    font-size: 60px;
+}
+
+.img-burger {
+    width: 400px;
 }
