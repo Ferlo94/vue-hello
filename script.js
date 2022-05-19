@@ -6,7 +6,7 @@
 const app = new Vue({
     el: '#app',
     data: {
-        message: 'HELLO WORLD!',
+        message: 'HELLO DIET!',
         img: 'images.png'
     }
 });
